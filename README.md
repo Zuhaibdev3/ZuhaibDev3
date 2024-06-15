@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm Zuhaib Ghori</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
+  <img src="https://media1.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100">
+ 
+</p>
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Tech%20Enthusiast;Problem+Solving;Always%20learning%20new%20things;Evolving;Communication;Organization;Leadership;Responsibility;Analysis;Innovation&center=true&width=500&height=50"></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowais20&label=Profile%20views&color=0e75b6&style=flat" alt="mowais20" /> </p>
+
+<ul>
+  <li><strong>Google DSC CodeJam'23 Web Challenge Winner 🏆<strong/></li>
+  <li>Vue JS Expert</li>
+</ul>
+<br/>
+
 # 💫 About Me:
 🔭 I’m currently working on enhancing my full-stack development skills and exploring new technologies to build scalable and efficient web applications.<br>👯 I’m looking to collaborate on open-source projects related to AI, blockchain, and DevOps, aiming to contribute to cutting-edge solutions and foster innovation in the tech industry.<br>🤝 I’m looking for help with mastering advanced backend technologies, diving deeper into DevOps practices, and exploring the potentials of AI and blockchain technologies.<br>🌱 I’m currently learning microservices architecture, containerization using Docker and Kubernetes, and exploring the applications of AI and blockchain in modern software development.<br>💬 Ask me about best practices in full-stack development, JavaScript frameworks like React and Node.js, and database design and optimization.<br>⚡ I'm a fitness enthusiast and enjoy challenging myself with intense gym workouts to stay healthy and maintain work-life balance.
 
