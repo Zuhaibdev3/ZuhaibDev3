@@ -12,12 +12,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Tech%20Enthusiast;Problem+Solving;Always%20learning%20new%20things;Evolving;Communication;Organization;Leadership;Responsibility;Analysis;Innovation&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowais20&label=Profile%20views&color=0e75b6&style=flat" alt="mowais20" /> </p>
-
-<ul>
-  <li><strong>Google DSC CodeJam'23 Web Challenge Winner 🏆<strong/></li>
-  <li>Vue JS Expert</li>
-</ul>
 <br/>
 
 # 💫 About Me:
