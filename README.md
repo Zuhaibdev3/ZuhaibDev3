@@ -7,9 +7,13 @@ Empowering the New World of Work through AI-Powered Employee Experience
 <br/>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG81bDhweGx5ZDl1MWN6bml4MHYycTU4d2E1ZGZvMDRreWRpYnY1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="90">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="90">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="90">
+  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="90">
+  <img src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" width="90">
 </p>
 
 <br/>
