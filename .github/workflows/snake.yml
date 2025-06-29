@@ -9,6 +9,8 @@ on:
   push:
     branches:
     - master
+    - staging
+    - development
     - main
     - development
     - zuhaib-dev
