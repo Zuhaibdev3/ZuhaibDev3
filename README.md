@@ -10,7 +10,6 @@ Empowering the New World of Work through AI-Powered Employee Experience
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="90">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="90">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90">
 </p>
 
 <br/>
